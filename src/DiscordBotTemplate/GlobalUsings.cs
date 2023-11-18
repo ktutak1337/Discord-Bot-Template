@@ -1,0 +1,10 @@
+﻿global using DiscordBotTemplate;
+global using DiscordBotTemplate.Services.Bot;
+global using DiscordBotTemplate.Options;
+global using DiscordBotTemplate.Models;
+global using DiscordBotTemplate.Services.Voice;
+global using DiscordBotTemplate.Services;
+global using Newtonsoft.Json;
+global using DSharpPlus;
+global using DSharpPlus.EventArgs;
+global using DSharpPlus.Entities;
